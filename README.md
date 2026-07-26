@@ -1,1 +1,1 @@
-# mxbikes.racing
+# mxbikes-racing
